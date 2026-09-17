@@ -7,3 +7,14 @@ Pros:
 Cons:
 1. Since requirements can frequently change, it can be harder to predict the exact schedule, cost, and final scope of a project.
 2. Agile provides frequent communication and participation from team members and stakeholders, which can requie significant time and coordination
+
+
+Q2.
+
+Scrum Master:
+The scrum master helps the team follow scrumpractices and removes obstacles that prevent the development team from completing its work.
+The scrum master also facilitates scrum meetings and helps improve communication and teamwork.
+
+Product Owner:
+The product owner represents the needs of the customer and stakeholders.
+The product owner manages and prioritizes the product backlog and decides which features or requirements provide the most value to the product.
