@@ -18,3 +18,18 @@ The scrum master also facilitates scrum meetings and helps improve communication
 Product Owner:
 The product owner represents the needs of the customer and stakeholders.
 The product owner manages and prioritizes the product backlog and decides which features or requirements provide the most value to the product.
+
+
+Q3.
+
+1. Sprint Planning:
+    - The team determines which backlog items will be completed during the sprint
+    - The team dicusses how the selected work will be completed and establishes the sprint goal
+
+2. Daily Scrum:
+    - Team Members discuss their progress and what work they plan to complete next.
+    - The team identifies problems or blockers that may prevent progress
+
+3. Sprint Review:
+    - The completed work from the sprint is reviewed and feedback is gathered.
+    - The team discusses what went well, what could be improved, and changes that should be made during the next sprint.
