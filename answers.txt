@@ -33,3 +33,18 @@ Q3.
 3. Sprint Review:
     - The completed work from the sprint is reviewed and feedback is gathered.
     - The team discusses what went well, what could be improved, and changes that should be made during the next sprint.
+
+
+Q4.
+
+Epic:
+A large body of work that normally contains multiple related stories or tasks and may require multiple development cycles to complete.
+
+Story:
+Afeature or requirement usually written from the user's prespectuive that describes functionality that provides value to the user.
+
+Bug:
+An issue describing something in the software that does not behave as intended and needs to be corrected
+
+Task:
+A specific piece of work that needs to be completed but is not necessarily a user-facing feature or software defect.
