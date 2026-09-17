@@ -1,0 +1,9 @@
+Q1.
+
+Pros:
+1. Agile allows teams to adapt quickly when requirements or customer needs change during development.
+2. Agile provides frequent feedback through short development cycles, allowing problems to be found and corrected earlier
+
+Cons:
+1. Since requirements can frequently change, it can be harder to predict the exact schedule, cost, and final scope of a project.
+2. Agile provides frequent communication and participation from team members and stakeholders, which can requie significant time and coordination
